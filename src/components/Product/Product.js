@@ -123,7 +123,7 @@ class User extends React.Component {
           <Table>
             <thead>
               <tr>
-                <th>Email</th>
+                
                 <th>Nombre</th>
                 <th>Apellido</th>
                 <th>Dirección</th>
